@@ -1,1 +1,5 @@
-print("my first programme for git hub") 
+print("my first programme for git hub")
+print("second line")
+print("third line")
+print("fourth line")
+print("hi") 
